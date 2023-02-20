@@ -1,8 +1,15 @@
 body {
   font-family: 'Roboto', sans-serif;
-  color: #212121;
+  color: #080000;
 }
 
 .buton {
   line-height: 10px;
+}
+.link {
+  
+}
+
+.link:hover {
+  color: rgb(255, 71, 80);
 }
