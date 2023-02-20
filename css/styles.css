@@ -3,13 +3,14 @@ body {
   color: #080000;
 }
 
-.buton {
-  line-height: 10px;
-}
-.link {
-  
+.link:hover {
+  color: deepskyblue;
 }
 
-.link:hover {
-  color: rgb(255, 71, 80);
+.current {
+  color: mediumvioletred;
+}
+
+.buton {
+  color: #080000;
 }
